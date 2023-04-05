@@ -54,7 +54,7 @@ function Emergency(){
                     <div style={{flex:1,display:"flex",gap:"10px",justifyContent:"center",alignItems:"center"}}>
                         <BiTimeFive style={{color:"black",width:"50px",height:"50px"}}/>
                         <div >
-                            <p style={{margin:0}}>เวลา xx:xx   วันที่ DD MM YYYY </p>
+                            <p style={{margin:0}}>เวลา xx:xxyy   วันที่ DD MM YYYY </p>
                             <p style={{margin:0}}>เบอร์โทรติดต่อกลับ : 06x-xxx-xxxx </p>
                         </div>
                     </div>
